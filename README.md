@@ -12,7 +12,7 @@
 
 ## Contributing
 
-### Contributing Git Commands
+### Git Commands
 
 1. Create a new branch
     ```

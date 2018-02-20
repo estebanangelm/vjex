@@ -1,8 +1,8 @@
 Data directory for storing fixed data sets
 
-# [Raw Data](https://github.com/estebanangelm/vjex/data/raw)
+# [Raw Data](https://github.com/estebanangelm/vjex/tree/master/data/raw)
 
-You are provided with a large number of [Wikipedia comments]() which have been labeled by human raters for toxic behavior. The types of toxicity are:
+You are provided with a large number of [Wikipedia comments](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data) which have been labeled by human raters for toxic behavior. The types of toxicity are:
 
 * `toxic`
 * `severe_toxic`

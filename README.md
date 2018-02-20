@@ -38,7 +38,7 @@
        ```
    5. Navigate to  [Compare changes](https://github.com/estebanangelm/vjex/compare) and create pull request for the branch of interest.
 
-   6. Wait for a member of the team to merge [pull requests](https://github.com/estebanangelm/vjex/pulls).
+   6. Wait for a member of the team to merge [pull request](https://github.com/estebanangelm/vjex/pulls).
 
 3. If you need to update the branch that you are currently working in with the updated master branch:
     ```
